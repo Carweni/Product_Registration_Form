@@ -9,8 +9,6 @@ Form for product registration with categories, data validation and state control
 
 ### Execution:
 
-- <kbd> npm install </kbd>
-
 - <kbd> npm run dev </kbd>
 
 ## Commands for Tailwind initialization:
